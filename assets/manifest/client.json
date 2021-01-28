@@ -1,19 +1,19 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/0.styles.a5cf6e34.css",
-    "assets/js/app.83f75be7.js",
+    "assets/css/0.styles.af2b84eb.css",
+    "assets/js/app.ee42040c.js",
     "assets/js/page--node-modules--gridsome--app--pages--404-vue.f60b0dff.js",
-    "assets/js/page--src--templates--category-vue.c81f908a.js",
+    "assets/js/page--src--templates--category-vue.0088a617.js",
     "assets/js/vendors~page--src--templates--category-vue.265fc7e5.js"
   ],
   "initial": [
-    "assets/css/0.styles.a5cf6e34.css",
-    "assets/js/app.83f75be7.js"
+    "assets/css/0.styles.af2b84eb.css",
+    "assets/js/app.ee42040c.js"
   ],
   "async": [
     "assets/js/page--node-modules--gridsome--app--pages--404-vue.f60b0dff.js",
-    "assets/js/page--src--templates--category-vue.c81f908a.js",
+    "assets/js/page--src--templates--category-vue.0088a617.js",
     "assets/js/vendors~page--src--templates--category-vue.265fc7e5.js"
   ],
   "modules": {
@@ -63,7 +63,7 @@
       0,
       -1
     ],
-    "68bba599": [
+    "1d319fc9": [
       0,
       -1
     ],
@@ -270,6 +270,9 @@
     "4f8a5cad": [
       1
     ],
+    "63a3dace": [
+      3
+    ],
     "ffdb76d4": [
       1
     ],
@@ -347,9 +350,6 @@
     ],
     "a2ba900c": [
       1
-    ],
-    "4cf20102": [
-      3
     ],
     "5a93753d": [
       1
@@ -507,9 +507,6 @@
     "7e205653": [
       1
     ],
-    "a1a43ec4": [
-      3
-    ],
     "c2120fee": [
       1
     ],
@@ -623,6 +620,9 @@
     ],
     "d650fe5c": [
       1
+    ],
+    "0167fb32": [
+      3
     ],
     "4d74b9ad": [
       1
