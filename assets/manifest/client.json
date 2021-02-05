@@ -1,20 +1,20 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/0.styles.bfd4a2b2.css",
-    "assets/js/app.f53dc368.js",
+    "assets/css/0.styles.fd3ae7ea.css",
+    "assets/js/app.520b711b.js",
     "assets/js/page--node-modules--gridsome--app--pages--404-vue.f60b0dff.js",
-    "assets/js/page--src--templates--category-vue.936b5dcd.js",
-    "assets/js/vendors~page--src--templates--category-vue.265fc7e5.js"
+    "assets/js/page--src--templates--category-vue.8ea6b2ab.js",
+    "assets/js/vendors~page--src--templates--category-vue.b2e76b41.js"
   ],
   "initial": [
-    "assets/css/0.styles.bfd4a2b2.css",
-    "assets/js/app.f53dc368.js"
+    "assets/css/0.styles.fd3ae7ea.css",
+    "assets/js/app.520b711b.js"
   ],
   "async": [
     "assets/js/page--node-modules--gridsome--app--pages--404-vue.f60b0dff.js",
-    "assets/js/page--src--templates--category-vue.936b5dcd.js",
-    "assets/js/vendors~page--src--templates--category-vue.265fc7e5.js"
+    "assets/js/page--src--templates--category-vue.8ea6b2ab.js",
+    "assets/js/vendors~page--src--templates--category-vue.b2e76b41.js"
   ],
   "modules": {
     "19723296": [
@@ -30,6 +30,10 @@
       1
     ],
     "58716764": [
+      0,
+      -1
+    ],
+    "60274034": [
       0,
       -1
     ],
@@ -60,10 +64,6 @@
       -1
     ],
     "7ae6f107": [
-      0,
-      -1
-    ],
-    "2b67b6cd": [
       0,
       -1
     ],
@@ -178,6 +178,9 @@
     "76d03eaa": [
       1
     ],
+    "165e9aeb": [
+      3
+    ],
     "f442a63e": [
       1
     ],
@@ -220,6 +223,9 @@
     "73b0a420": [
       1
     ],
+    "209a26e8": [
+      4
+    ],
     "9d33f69e": [
       1
     ],
@@ -231,6 +237,9 @@
     ],
     "4a249456": [
       1
+    ],
+    "082aa38e": [
+      4
     ],
     "c5571f8e": [
       4
@@ -418,9 +427,6 @@
     "05de88ce": [
       1
     ],
-    "0f9e1236": [
-      3
-    ],
     "717123de": [
       4
     ],
@@ -493,9 +499,6 @@
     "c0be3972": [
       1
     ],
-    "71d9f1d2": [
-      3
-    ],
     "042c9caa": [
       1
     ],
@@ -504,6 +507,9 @@
     ],
     "12b4508b": [
       1
+    ],
+    "17f23d26": [
+      4
     ],
     "1e58ce04": [
       1
@@ -519,6 +525,9 @@
     ],
     "7e205653": [
       1
+    ],
+    "97ba8962": [
+      3
     ],
     "c2120fee": [
       1
